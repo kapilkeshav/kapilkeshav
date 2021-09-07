@@ -5,10 +5,10 @@
 
 **My skills:**
 1. Python 
-2. C Language
+2. C/C++
 
 **Learning:**
-1. Flutter SDK (Dart)
-2. Machine Learning
+1. Web Development(HTML, CSS, Bootstrap, JavaScript)
+2. Data analysis using Python
 
 I like to create solutions. I would love to collaborate on projects :)
