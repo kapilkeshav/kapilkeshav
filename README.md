@@ -8,7 +8,7 @@
 2. C/C++
 
 **Learning:**
-1. Web Development(HTML, CSS, Bootstrap, JavaScript)
+1. Web Development(HTML, CSS, JavaScript)
 2. Data analysis using Python
 
 I like to create solutions. I would love to collaborate on projects :)
