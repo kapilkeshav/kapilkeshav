@@ -4,11 +4,10 @@
 ### Twitter => https://twitter.com/kapilkeshav__
 
 **My skills:**
-1. Python 
+1. Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks, Sci-kit Learn)
 2. C/C++
 
 **Learning:**
-1. Web Development(HTML, CSS, JavaScript)
-2. Data analysis using Python
+I've been focusing mainly on data vizualisation, Exploratory data analysis and machine learning.
 
 I like to create solutions. I would love to collaborate on projects :)
