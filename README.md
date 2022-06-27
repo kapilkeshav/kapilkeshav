@@ -11,3 +11,6 @@
 I've been focusing mainly on data vizualisation, Exploratory data analysis and machine learning.
 
 I like to create solutions. I would love to collaborate on projects :)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilkeshav&theme=aura&show_icons=true)
