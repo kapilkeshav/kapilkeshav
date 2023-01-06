@@ -3,14 +3,4 @@
 ### LinkedIn => https://www.linkedin.com/in/keshav-kapil-44a6491a5
 ### Twitter => kapilkeshav__
 
-**My skills:**
-1. Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks, Sci-kit Learn)
-2. C/C++
-
-**Learning:**
-I've been focusing mainly on data vizualisation, Exploratory data analysis and machine learning.
-
-I like to create solutions. I would love to collaborate on projects :)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilkeshav&theme=aura&show_icons=true)
